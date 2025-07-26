@@ -53,7 +53,7 @@
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishashwatthakur&theme=react-dark" />
+  <img src="https://github.com/ishashwatthakur" alt="Banner" />
 </p>
 
 ---
