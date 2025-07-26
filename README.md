@@ -53,7 +53,10 @@
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://github.com/ishashwatthakur" alt="Banner" />
+  <a href="https://github.com/ishashwatthakur">
+  <img src="https://avatars.githubusercontent.com/u/141014527?v=4" width="120" height="120" style="border-radius: 50%;" alt="Shashwat Pratap Singh's Avatar"/>
+</a>
+
 </p>
 
 ---
