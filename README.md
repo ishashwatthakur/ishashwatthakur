@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: *shashwatpratapsinghh@gmail.com*
 
-- 🌐 LinkedIn: [Shashwat Pratap Singh](https://www.linkedin.com/in/shashwat-pratap-singh-20757828a)
+- 🌐 LinkedIn: [Shashwat Pratap Singh](www.linkedin.com/in/ishashwatthakur)
 
 ---
 
